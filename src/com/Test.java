@@ -14,7 +14,8 @@ public class Test {
 		
 		System.out.println("Buy Now");
 		
-		
+		String s = "Java";
+		System.out.println("String value");
 
 	}
 
