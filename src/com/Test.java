@@ -14,6 +14,10 @@ public class Test {
 		
 		System.out.println("Buy Now");
 		
+		int i = 0;
+		System.out.println("variable i value");
+		System.out.println("Tester A");
+		
 		
 
 	}
